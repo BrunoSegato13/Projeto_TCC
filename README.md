@@ -8,12 +8,12 @@ Como ele funciona?
 
 Quando aberto temos as opções de algumas telas, das quais as mais importante são as telas de cálculo e projeto:
 
-![/img/tela_calculo.png]
+![](/img/tela_calculo.png)
 
 Na tela cálculo estão as principais informações para realizar os cálculos hidráulicos, basta ter em mãos as caracteristicas
 da tubulação.
 
-![/img/tela_projeto.png] 
+![](/img/tela_projeto.png) 
 
 Já na tela de projeto o usuário tem um sistema de CRUD completo, para os projetos em que deseja trabalhar.
 
